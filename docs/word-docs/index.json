@@ -312,6 +312,11 @@
       "fileName": "Pediatric Tumors/FAQ.docx",
       "title": "Pediatric Tumors FAQ",
       "category": "Pediatric Tumors"
+    },
+    {
+      "fileName": "Videos/FAQ.docx",
+      "title": "Videos",
+      "category": "Videos of stuff"
     }
   ]
 }
