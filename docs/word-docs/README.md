@@ -194,6 +194,47 @@ Only do this if none of the existing categories fit.
 5. Add the document entry to the `files` list.
 6. Use the same category name in both places.
 
+# Add New Folder
+
+To create a new folder within the Grossing Manual repository:
+
+1. Navigate to the location where you would like the new folder to be created.
+
+2. Click **Add file** → **Create new file**.
+
+3. In the filename field, enter the new folder name followed by `/README.md`.
+
+   Example:
+
+   ```
+   New Folder/README.md
+   ```
+
+4. Add a brief description of the folder in the README file.
+
+5. Scroll to the bottom of the page and enter a commit message describing the addition.
+
+6. Click **Commit new file**.
+
+GitHub does not support creating empty folders. A folder must contain at least one file, such as a `README.md`, for it to be created and tracked.
+
+## Example
+
+To create a folder named **Breast**:
+
+```
+Breast/README.md
+```
+
+To create a folder named **Test**:
+
+```
+Test/README.md
+```
+
+After committing, the new folder will appear in the repository and can be used to store documents and other files.
+
+
 ### Example New Category
 
 If you create this folder and file:
