@@ -15,9 +15,7 @@
     "Liver",
     "Lung",
     "Neuro and Eye",
-    "Pediatric Tumors",
-    "Videos",
-    "cVideo"
+    "Pediatric Tumors"
   ],
   "files": [
     {
@@ -319,16 +317,6 @@
       "fileName": "Pediatric Tumors/FAQ.docx",
       "title": "Pediatric Tumors FAQ",
       "category": "Pediatric Tumors"
-    },
-    {
-      "fileName": "Videos/Placeholder.docx",
-      "title": "Placeholder",
-      "category": "Videos"
-    },
-    {
-      "fileName": "cVideo/Placeholder.docx",
-      "title": "Placeholder",
-      "category": "cVideo"
     }
   ]
 }
