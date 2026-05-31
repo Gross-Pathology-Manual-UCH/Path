@@ -16,7 +16,8 @@
     "Lung",
     "Neuro and Eye",
     "Pediatric Tumors",
-    "Videos"
+    "Videos",
+    "cVideo"
   ],
   "files": [
     {
@@ -323,6 +324,11 @@
       "fileName": "Videos/Placeholder.docx",
       "title": "Placeholder",
       "category": "Videos"
+    },
+    {
+      "fileName": "cVideo/Placeholder.docx",
+      "title": "Placeholder",
+      "category": "cVideo"
     }
   ]
 }
