@@ -208,7 +208,7 @@ This controls which section the document appears under on the website.
 
 Only do this if none of the existing categories fit.
 
-1. Create a new folder inside `docs/word-docs/`. ~~ Click plus on top right when inside `docs/word-docs/`, then add new file, `File Name/.README.md` 
+1. Create a new folder inside `docs/word-docs/`. ~~ Click plus on top right when inside `docs/word-docs/`, then add new file, `File Name/README.md` 
 3. Put the new document, PDF, image, or video inside that folder.
 4. Open `docs/word-docs/index.json`.
 5. Add the new category name to the `categories` list near the top.
